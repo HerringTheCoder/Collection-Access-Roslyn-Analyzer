@@ -9,9 +9,9 @@
   </PropertyGroup>
 
   <PropertyGroup>
-    <PackageId>TypesShouldBeUpperCase</PackageId>
-    <PackageVersion>1.0.0.0</PackageVersion>
-    <Authors>YOUR_NAME_HERE</Authors>
+    <PackageId>ComputedDictionaryAssignmentAnalyzer</PackageId>
+    <PackageVersion>1.0.1.0</PackageVersion>
+    <Authors>Szymon Sandura</Authors>
     <PackageLicenseUrl>http://LICENSE_URL_HERE_OR_DELETE_THIS_LINE</PackageLicenseUrl>
     <PackageProjectUrl>http://PROJECT_URL_HERE_OR_DELETE_THIS_LINE</PackageProjectUrl>
     <PackageIconUrl>http://ICON_URL_HERE_OR_DELETE_THIS_LINE</PackageIconUrl>
@@ -20,7 +20,7 @@
     <Description>YOUR_DESCRIPTION_HERE</Description>
     <PackageReleaseNotes>Summary of changes made in this release of the package.</PackageReleaseNotes>
     <Copyright>Copyright</Copyright>
-    <PackageTags>TypesShouldBeUpperCase, analyzers</PackageTags>
+    <PackageTags>ComputedDictionaryAssignmentAnalyzer, analyzers</PackageTags>
     <NoPackageAnalysis>true</NoPackageAnalysis>
 
     <TargetsForTfmSpecificContentInPackage>$(TargetsForTfmSpecificContentInPackage);_AddAnalyzersToOutput</TargetsForTfmSpecificContentInPackage>

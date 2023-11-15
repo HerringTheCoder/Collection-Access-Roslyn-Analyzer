@@ -5,4 +5,4 @@
 
 Rule ID | Category | Severity | Notes
 --------|----------|----------|--------------------
-MY0001  | Naming   |  Warning | TypesShouldBeUpperCaseAnalyzer
+RD001 | Design | Warning | UpdatingComputedDictionaryEntryDoesNotModifyDataAnalyzer
