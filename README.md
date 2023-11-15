@@ -15,3 +15,6 @@ public IDictionary<string, string> Params => new Dictionary<string, string()
 ```cs
 Params["0"] = "XYZ"; //Warning should be raised here
 ```
+
+
+Roslyn analyser template source: https://github.com/ryzngard/VSToolBoxAnalyzer
